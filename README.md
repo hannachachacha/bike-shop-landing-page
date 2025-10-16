@@ -24,7 +24,7 @@ To run this project locally:
    
 git clone https://github.com/hannachachacha/bike-shop-landing-page.git
 
-cd react_ecommerce-site
+cd bike-shop-landing-page
 
 2. Install dependencies
    
